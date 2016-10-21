@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">AppsMovilesTP</string>
     <string name="title_activity_maps">Map</string>
+    <string name="title_activity_listar__lugares">Listar_Lugares</string>
 </resources>

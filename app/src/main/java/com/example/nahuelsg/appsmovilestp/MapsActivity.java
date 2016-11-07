@@ -170,7 +170,7 @@ public class MapsActivity
             return;
         }
 /**
- *-------------------------------------------------------------------------------------------------
+ *-----------------------------------------------------------------------------------------------
  */
         Location location = LocationServices.FusedLocationApi.getLastLocation(googleApiClient);
         if (location != null) {

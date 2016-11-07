@@ -2,7 +2,7 @@
 
 
         <!-- your theme inherits from the material theme -->
-        <style name="AppTheme" parent="android:Theme.Material">
+        <style name="AppTheme2" parent="android:Theme.Material">
             <!-- Main theme colors -->
             <!--   your app branding color for the app bar -->
             <item name="android:colorPrimary">#9E9E9E</item>
